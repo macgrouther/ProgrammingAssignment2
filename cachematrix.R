@@ -2,7 +2,7 @@
 
 ## The first function, makeCacheMatrix, will build a set of functions and
 ## return those functions within a list to the parent environment.  The list
-## will contain four functions: setMatrix(), getMatrix(), setInverse(), and
+## will contain four functions: set(), get(), setInverse(), and
 ## getInverse().  It will also contact two data objects, x and m.
 ## This list will be used as the input for the cacheSolve() function.
 
